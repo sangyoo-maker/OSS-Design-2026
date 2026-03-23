@@ -1,5 +1,7 @@
 # Conceptualization Report: 금융 시뮬레이션 시스템
 
+![System Context Diagram](./금융로고.png)
+
 **학번:** [22110939]  
 **이름:** [여상유]  
 **E-Mail:** [sangyu765@gmail.com]
@@ -57,7 +59,7 @@
 
 ## 2. System Context Diagram
 
-
+![System Context Diagram](./UML.png)
 
 ---
 
