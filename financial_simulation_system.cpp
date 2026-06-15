@@ -11,7 +11,7 @@
 #include <memory>
 #include <windows.h>
 
-// 전역 도우미 함수: Java의 DecimalFormat 및 컴마 제거 기능을 대체하기 위함
+
 std::string formatCurrency(double value) {
     std::string res = std::to_string((long long)value);
     int insertPosition = res.length() - 3;
